@@ -57,14 +57,14 @@ msgid "POST_FLIPNOTE"
 msgstr "作品を投稿"
 
 msgid "CATEGORY_recent"
-msgstr "Recent Flipnotes"
+msgstr "最新の作品"
 
 msgid "CATEGORY_hot"
-msgstr "Hot Flipnotes"
+msgstr "注目されてる作品"
 
 msgid "CATEGORY_popular"
-msgstr "Most Popular"
+msgstr "人気のある作品"
 
 msgid "CATEGORY_featured"
-msgstr "Featured Flipnotes"
+msgstr "おすすめの作品"
 
