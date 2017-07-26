@@ -80,5 +80,5 @@ msgid "NEXT"
 msgstr "次へ"
 
 msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Stars ★"
+msgstr "★ スター ★"
 
